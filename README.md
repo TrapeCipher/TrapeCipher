@@ -18,6 +18,12 @@
           📝 Wrestling 
           📝 Boxing
  ----------------------
+ ##  📚 Education
+       📁  Goal Orineted Academy 
+          📝 https://goal-oriented.academy/
+          📝 https://goal-oriented.academy/main.html
+          📝 https://goa-project.netlify.app/
+ ----------------------
 
 <!---
 TrapeCipher/TrapeCipher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
