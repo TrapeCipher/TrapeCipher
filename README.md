@@ -16,7 +16,7 @@
       📁 Sports 
           📝 Football
           📝 Wrestling 
-          📝 Boxxing
+          📝 Boxing
  ----------------------
 
 <!---
