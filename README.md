@@ -21,8 +21,6 @@
  ##  📚 Education
        📁  Goal Orineted Academy 
           📝 https://goal-oriented.academy/
-          📝 https://goal-oriented.academy/main.html
-          📝 https://goa-project.netlify.app/
  ----------------------
 
 <!---
