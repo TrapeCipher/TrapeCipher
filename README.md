@@ -12,7 +12,7 @@
           📝 Bug Bounty Hunting
           📝 OSINT
           📝 Linux
-          📝 Network Scanning
+          📝 Trading
       📁 Sports 
           📝 Football
           📝 Wrestling 
