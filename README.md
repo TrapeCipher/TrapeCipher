@@ -19,7 +19,6 @@
           📝 Boxing
  <h2>📚 Education</h2>
        📁  Goal Orineted Academy 
-          📝 https://goal-oriented.academy/
           <a href="https://goal-oriented.academy/">📝 https://goal-oriented.academy/</a>
 </pre>
 
