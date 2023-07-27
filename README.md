@@ -6,13 +6,19 @@
           📝 Python
           📝 HTML
           📝 CSS
+          📝 JS
           📝 Tkinter
+          📝 PySimpleGUI
+          📝 CustomTkinter
+          📝 Bootstrap
+          📝 PureCSS
       📁 Others
           📝 Google Dorking
           📝 Bug Bounty Hunting
           📝 OSINT
           📝 Linux
           📝 Trading
+          📝 Canva
       📁 Sports 
           📝 Football
           📝 Wrestling 
