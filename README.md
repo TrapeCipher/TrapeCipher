@@ -23,9 +23,7 @@
           📝 Football
           📝 Wrestling 
           📝 Boxing
- <h2>📚 Education</h2>
-       📁  Goal Orineted Academy 
-          <a href="https://goal-oriented.academy/">📝 https://goal-oriented.academy/</a>
+
 </pre>
 
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trapecipher&show_icons=true&locale=en" alt="trapecipher" /></p><br>
