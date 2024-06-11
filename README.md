@@ -3,27 +3,8 @@
  <h1>👽 @TrapeCipher</h1>
 <h2>👀 Interested In</h2>
       📁 Coding
-          📝 Python
-          📝 HTML
-          📝 CSS
-          📝 JS
-          📝 Tkinter
-          📝 PySimpleGUI
-          📝 CustomTkinter
-          📝 Bootstrap
-          📝 PureCSS
-      📁 Others
-          📝 Google Dorking
-          📝 Bug Bounty Hunting
-          📝 OSINT
-          📝 Linux
-          📝 Trading
-          📝 Canva
-      📁 Sports 
-          📝 Football
-          📝 Wrestling 
-          📝 Boxing
-
+          📝 CyberSec
+          📝 Coding
 </pre>
 
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trapecipher&show_icons=true&locale=en" alt="trapecipher" /></p><br>
